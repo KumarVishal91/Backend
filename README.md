@@ -1,5 +1,5 @@
-# Backend
-exploring MERN Stack 
+# Backend- MERN Stack 
+
 💡 What is Backend Development?
 Backend development is everything that happens behind the scenes when you interact with a website or app.
 
